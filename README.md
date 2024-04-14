@@ -1,4 +1,4 @@
-# CODSOFT-Portfolio-using-HTML-CSS
+# Portfolio-using-HTML-CSS
 
 Welcome to Abhishek's Portfolio! Explore a curated collection of my latest projects,  designs, and creations in HTML and CSS. As a web devloper, I am  passionate about HTML and CSS, and my portfolio reflects the diverse range of my talents and experiences.  Whether you're seeking a skilled web devloper, innovative designer, or creative collaborator,  you'll find examples of my work that demonstrate my dedication to excellence and attention to detail.
 
